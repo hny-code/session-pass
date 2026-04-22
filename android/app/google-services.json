@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163399038838",
+    "project_id": "session-pass",
+    "storage_bucket": "session-pass.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163399038838:android:e64835cb6fc0efca32ec57",
+        "android_client_info": {
+          "package_name": "com.example.session_pass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJoHo8jKhI1p94DeggV3v8eejrD1YOeiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
